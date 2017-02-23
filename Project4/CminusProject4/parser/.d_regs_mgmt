@@ -1,0 +1,3 @@
+libparser-g.a(regs_mgmt.o): regs_mgmt.c ../util/general.h \
+ ../util/symtab.h ../util/symtab_stack.h ../util/dlink.h \
+ ../util/string_utils.h mips_mgmt.h
